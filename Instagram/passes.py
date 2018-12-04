@@ -1,0 +1,2 @@
+facebookpass="valami"
+gmailpass="valami"
